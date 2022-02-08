@@ -76,7 +76,7 @@ def get_cosine_dist(A, B):
         c+= l1[i]*l2[i]
     return c / float((sum(l1)*sum(l2))**0.5)
 
-df = pd.read_csv('TextData/phrases.csv')
+df = pd.read_csv('../TextData/phrases.csv')
 
 
 def get_rec(phrase, classification):

@@ -1,70 +1,77 @@
-,Unnamed: 0,id,context,correctness,growth,text
-0,0,1,homework,correct,8,good job answering all the questions
-1,1,2,paper,correct,9,you are a natural writer
-2,2,3,homework,partial,5,received
-3,3,4,paper,incorrect,2,bad writing
-4,4,5,homework,correct,8,keep up the good work!
-5,5,6,paper,correct,9,great writing
-6,6,7,homework,partial,3,you got half of this wrong!
-7,7,8,paper,partial,4,your paper is unclear
-8,8,9,homework,partial,7,Good effort
-9,9,10,paper,partial,8,I like how its turning out
-10,10,11,homework,incorrect,2,pay attention next time
-11,11,12,paper,incorrect,1,terrible paper
-12,12,13,homework,correct,9,Great job showing all the work
-13,13,14,paper,correct,10,I really enjoyed reading your paper
-14,14,15,homework,incorrect,3,no credit
-15,15,16,paper,partial,2,you didn't follow the instructions
-16,16,17,homework,partial,8,"you missed some questions, but good work on the others ones"
-17,17,18,paper,correct,8,I like what you wrote on page 2
-18,18,19,homework,incorrect,3,What is this?
-19,19,20,paper,incorrect,3,Poor grammar
-20,20,21,homework,partial,9,"Good effort, but some answers were wrong. Consider reading chapter 2"
-21,21,22,paper,correct,9,Good attention to details
-22,22,23,homework,incorrect,4,do better next time
-23,23,24,paper,incorrect,4,follow the rubric!
-24,24,25,homework,correct,7,good job
-25,25,26,paper,correct,7,nice paper
-26,26,27,homework,incorrect,1,dissapointing
-27,27,28,paper,incorrect,2,Bad formatting
-28,28,29,homework,correct,9,Amazing work
-29,29,30,paper,correct,9,Amazing paper
-30,30,31,homework,incorrect,4,You missed half the questions
-31,31,32,paper,incorrect,1,awful draft
-32,32,33,homework,partial,7,"Missed some questions, but I appreciate the effort"
-33,33,34,paper,correct,7,Good first draft
-34,34,35,homework,partial,4,show work
-35,35,36,paper,incorrect,2,thesis unclear
-36,36,37,homework,partial,8,"Good job getting the right answers, but please resubmit this showing all the work"
-37,37,38,paper,correct,1,Great paper
-38,38,39,homework,incorrect,1,bad answers
-39,39,40,paper,incorrect,2,bad paper
-40,40,41,homework,correct,7,"great, you got all the questions"
-41,41,42,paper,correct,9,perfect paper
-42,42,43,homework,incorrect,1,sad
-43,43,44,paper,incorrect,1,"your paper is bad, and you should feel bad"
-44,44,45,homework,correct,9,Awesome work! Keep going!
-45,45,46,paper,correct,9,Awsome writing! Keep going!
-46,46,47,homework,incorrect,2,zero credit
-47,47,48,paper,incorrect,2,bad draft
-48,48,49,paper,incorrect,8,Thank you for submitting. You need to focus on improving your grammar in the future
-49,49,50,homework,incorrect,10,"Don't let this grade discourage you, you still have a enough time to catch up"
-50,50,51,homework,incorrect,10,"Don't fall behind, you still have a shot a passing"
-51,51,52,paper,incorrect,10,"Although paper is not upto par, you put a good effort"
-52,52,53,paper,incorrect,9,"The paper doesn't meet expectations, but I am sure that you can do better"
-53,53,54,paper,partial,9,You should revise this draft and check for spelling errors
-54,54,55,paper,partial,8,"You should use proper citations, check your notes on how to cite"
-55,55,56,paper,incorrect,1,I don't like this paper
-56,56,57,paper,incorrect,1,awful paper
-57,57,58,homework,incorrect,1,bad job
-58,58,59,homework,incorrect,1,this is terrrible
-59,59,60,homework,incorrect,1,this is awful
-60,60,61,paper,correct,9,great paper
-61,61,62,general,correct,9,great
-62,62,63,general,correct,9,amazing
-63,63,64,general,correct,9,awesome
-64,64,65,paper,correct,9,best paper ever
-65,65,66,general,correct,8,great job
-66,66,67,general,correct,8,great work
-67,67,68,homework,correct,8,amazing work
-68,68,69,homework,correct,8,awsome work
+id,context,correctness,growth,text
+1,homework,correct,8,good job answering all the questions
+2,paper,correct,9,you are a natural writer
+3,homework,partial,5,received
+4,paper,incorrect,2,bad writing
+5,homework,correct,8,keep up the good work!
+6,paper,correct,9,great writing
+7,homework,partial,3,you got half of this wrong!
+8,paper,partial,4,your paper is unclear
+9,homework,partial,7,Good effort
+10,paper,partial,8,I like how its turning out
+11,homework,incorrect,2,pay attention next time
+12,paper,incorrect,1,terrible paper
+13,homework,correct,9,Great job showing all the work
+14,paper,correct,10,I really enjoyed reading your paper
+15,homework,incorrect,3,no credit
+16,paper,partial,2,you didn't follow the instructions
+17,homework,partial,8,"you missed some questions, but good work on the others ones"
+18,paper,correct,8,I like what you wrote on page 2
+19,homework,incorrect,3,What is this?
+20,paper,incorrect,3,Poor grammar
+21,homework,partial,9,"Good effort, but some answers were wrong. Consider reading chapter 2"
+22,paper,correct,9,Good attention to details
+23,homework,incorrect,4,do better next time
+24,paper,incorrect,4,follow the rubric!
+25,homework,correct,7,good job
+26,paper,correct,7,nice paper
+27,homework,incorrect,1,dissapointing
+28,paper,incorrect,2,Bad formatting
+29,homework,correct,9,Amazing work
+30,paper,correct,9,Amazing paper
+31,homework,incorrect,4,You missed half the questions
+32,paper,incorrect,1,awful draft
+33,homework,partial,7,"Missed some questions, but I appreciate the effort"
+34,paper,correct,7,Good first draft
+35,homework,partial,4,show work
+36,paper,incorrect,2,thesis unclear
+37,homework,partial,8,"Good job getting the right answers, but please resubmit this showing all the work"
+38,paper,correct,1,Great paper
+39,homework,incorrect,1,bad answers
+40,paper,incorrect,2,bad paper
+41,homework,correct,7,"great, you got all the questions"
+42,paper,correct,9,perfect paper
+43,homework,incorrect,1,sad
+44,paper,incorrect,1,"your paper is bad, and you should feel bad"
+45,homework,correct,9,Awesome work! Keep going!
+46,paper,correct,9,Awsome writing! Keep going!
+47,homework,incorrect,2,zero credit
+48,paper,incorrect,2,bad draft
+49,paper,incorrect,8,Thank you for submitting. You need to focus on improving your grammar in the future
+50,homework,incorrect,10,"Don't let this grade discourage you, you still have a enough time to catch up"
+51,homework,incorrect,10,"Don't fall behind, you still have a shot a passing"
+52,paper,incorrect,10,"Although paper is not upto par, you put a good effort"
+53,paper,incorrect,9,"The paper doesn't meet expectations, but I am sure that you can do better"
+54,paper,partial,9,You should revise this draft and check for spelling errors
+55,paper,partial,8,"You should use proper citations, check your notes on how to cite"
+56,paper,incorrect,1,I don't like this paper
+57,paper,incorrect,1,awful paper
+58,homework,incorrect,1,bad job
+59,homework,incorrect,1,this is terrrible
+60,homework,incorrect,1,this is awful
+61,paper,correct,9,great paper
+62,general,correct,9,great
+63,general,correct,9,amazing
+64,general,correct,9,awesome
+65,paper,correct,9,best paper ever
+66,general,correct,8,great job
+67,general,correct,8,great work
+68,homework,correct,8,amazing work
+69,homework,correct,8,awsome work
+70,paper,incorrect,2,I did not enjoy this paper
+71,paper,incorrect,2,I did not even read the paper
+72,paper,incorrect,2,I did not like your paper
+73,paper,incorrect,2,I don't like your paper
+74,homework,incorrect,2,I don't like your work
+75,homework,incorrect,2,I did not like your work
+76,general,incorrect,2,I don't like this
